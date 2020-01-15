@@ -47,7 +47,7 @@ const orange = o;
 const yellow = y;
 const green = g;
 const blue = b;
-const indigo = indg;
+const indigo = i;
 const violet = v;
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
 const Indigo = indg;
